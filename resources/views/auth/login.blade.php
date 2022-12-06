@@ -1,7 +1,7 @@
 @extends('layouts.auth')
 
 @section('content')
-    <div class="bg-image" style="background-image: url('assets/media/photos/photo34@2x.jpg');">
+    <div class="bg-image" style="background-image: url('assets/media/photos/photo39@2x.jpg');">
         <div class="hero-static bg-black-50">
             <div class="content">
                 <div class="row justify-content-center">
